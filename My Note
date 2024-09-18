@@ -1,0 +1,6 @@
+- In Ruby 'print' and 'puts' are used to print something. The differernce between print and puts is, puts has an embedded "\n" while print doesn't have
+- Data-type:
+    - String:   "any string"
+    - Integer:  1234
+    - Float:    123.5
+    - Boolean:  true/false
